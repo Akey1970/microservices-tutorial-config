@@ -12,6 +12,6 @@ eureka:
    
   
 
-spring:
-  application:
-    name: Config-Default
+# spring:
+#   application:
+#     name: Config-Default
